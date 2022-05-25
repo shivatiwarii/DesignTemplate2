@@ -1,0 +1,43 @@
+* {
+	
+}
+html,body{
+	padding: 0;
+	margin: 0;
+	}
+
+
+.visual .row{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.flexible{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	background-color: #F5F5F5;
+	margin-top: 50px;
+}
+
+.textcard{
+text-align: center;
+  margin: auto;
+  width: 40%;
+  border: 0px solid ;
+  padding: 10px;
+}
+
+.footer{
+	background-color: black;
+	height: 350px;
+	width: 100%;
+
+}
+
+.footrtxt{
+	font-size: 11px;
+	color: 		#E0E0E0;
+}
+
